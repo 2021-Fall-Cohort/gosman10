@@ -1,0 +1,25 @@
+.nav-bar{
+    border: 3px solid black;
+    background-image:black;
+    height: fit-content;
+    
+  }
+
+.name-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(240, 6, 6);
+  
+}
+
+.pet{
+  font-size: larger;
+  font-style: normal;
+}
+
+
+
+.Projects{
+  font: italic;
+  font-size: 25px;
+
+}
